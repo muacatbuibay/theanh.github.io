@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DatBan</string>
+    <string name="DatBan">Đặt bàn</string>
+    <string name="DSDB">Danh sách đặt bàn</string>
+    <string name="todo">TODO</string>
+    <string name="quaylai">Quay lại</string>
+    <string name="_2nd_floor">2nd Floor</string>
+    <string name="_1st_floor">1st Floor</string>
+    <string name="n_i_dung_tin_nh_n">Nội dung tin nhắn:</string>
+    <string name="g_i">Gửi</string>
+    <string name="th_ng_tin_b_n">Thông tin bàn</string>
+    <string name="datban">Đặt bàn</string>
+    <string name="huydb">Hủy đặt</string>
+    <string name="bar">BAR</string>
+    <string name="tenkh">Tên khách hàng</string>
+    <string name="sdt">Số điện thoại</string>
+    <string name="ngaydat">Ngày đặt</string>
+    <string name="gio">Giờ đặt</string>
+    <string name="dat">Đặt</string>
+    <string name="huy">Hủy</string>
+    <string name="msb">Mã số bàn</string>
+    <string name="luu">Lưu</string>
+    <string name="xoa">Xóa</string>
+    <string name="sua">Sửa</string>
+
+</resources>
